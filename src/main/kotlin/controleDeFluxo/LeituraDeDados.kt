@@ -1,4 +1,4 @@
-package ControleDeFluxo
+package controleDeFluxo
 
 fun main() {
     println("Digite o seu nome")
